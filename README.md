@@ -17,7 +17,7 @@ environment dependencies from the [Poetry](https://python-poetry.org/) lockfile.
 - [Feature Overview](#feature-overview)
 - [Using the Plugin](#user-documentation)
   - [Installing](#installing)
-  - [Quick Star](#quick-start)
+  - [Quick Start](#quick-start)
   - [References](#references)
     - [Config Options](#configuration-options)
     - [Runtime Options](#runtime-options)
